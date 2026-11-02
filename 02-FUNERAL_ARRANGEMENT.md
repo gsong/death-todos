@@ -38,3 +38,9 @@ A complete cremation funeral usually takes about 2–3 weeks:
 - [ ] Headstone?
 
   Cost runs in the few thousands. If headstone is elected, there's is also the design process which can take a few months.
+
+## Homework
+
+- [ ] What's the budget for the funeral?
+- [ ] Pre-plan / pre-purchase?
+- [ ] What type of funeral within the budget?

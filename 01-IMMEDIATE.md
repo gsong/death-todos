@@ -14,7 +14,7 @@ If there is no autopsy required, the body can be picked up by a funeral home, mo
 
 It might be good to draw up a list ahead of time, with contact information ready to go.
 
-## Preparations
+## Homework
 
 - [ ] Have a copy of medical advance directive accessible.
 - [ ] List of people to contact, with contact info.
